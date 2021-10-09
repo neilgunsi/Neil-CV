@@ -1,8 +1,10 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <title>Neil's Personal Site</title>
+      <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
+<bodystyle="background-color: white">
   <table cellspacing="20">
     <tr>
       <td><img src="images/NeilIvy.png" alt="NeilIvy"></td>
