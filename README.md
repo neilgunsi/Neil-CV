@@ -10,7 +10,7 @@
       <td><img src="images/NeilIvy.png" alt="NeilIvy"></td>
       <td><h1>Neil Gunsi</h1>
       <p><em>Entrepreneur, Web developer and Stock trader.</em></p>
-      <p>I love my wife and family. I love travelling and learning. I love Basketball 🏀.</p></td>
+      <p>I love my Wife and Family. I love travelling and learning. I love Basketball 🏀 </p></td>
     </tr>
   </table>
   <hr>
